@@ -46,6 +46,11 @@
     "principalId": "297d299a-c473-4e67-b2ae-031ca2877633",
     "roleDefinitionId": "4d97b98b-1d4f-4787-a291-c67834d212e7",
     "principalIdDisplayName": "Azure Lighthouse SG"
+   },
+   {
+    "principalId": "297d299a-c473-4e67-b2ae-031ca2877633",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
+    "principalIdDisplayName": "Azure Lighthouse SG"
    }
   ]
  },
