@@ -14,7 +14,7 @@
    "metadata": {
     "description": "Name of the Managed Service Provider offering"
    },
-   "defaultValue": "This will allow Italik to managed and support your Azure subscription(s). This is to be used as part of the Azure managed support offering"
+   "defaultValue": "This will allow Italik to manage and support your Azure subscription(s). This is to be used as part of the Azure managed support offering"
   }
  },
  "variables": {
