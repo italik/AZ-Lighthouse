@@ -55,7 +55,10 @@
    {
     "principalId": "297d299a-c473-4e67-b2ae-031ca2877633",
     "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9",
-    "principalIdDisplayName": "Azure Lighthouse - 3rd Line Support"
+    "principalIdDisplayName": "Azure Lighthouse - 3rd Line Support",
+    "delegatedRoleDefinitionIds": [
+     "b24988ac-6180-42a0-ab88-20f7382dd24c"
+    ]
    },
    {
     "principalId": "2ef1ef87-4c7d-456c-ac02-fbe10f8852c8",
